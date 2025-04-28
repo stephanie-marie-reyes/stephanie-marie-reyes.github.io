@@ -1,11 +1,15 @@
-title: John Doe # your name (or website title) here
+title: Stephanie Marie Reyes # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Reporting & Analytics Specialist at Fred Loya Insurance
   <br><br>
-  Second description 
+  My current position introduced me to how internal & external stakeholders require large amounts of reporting through data analytics to maintain and grow companies. 
+
+I have always seen the appeal on the small scale for data analytics within small clubs or basic statistics for any company. However after working with data on a larger scale, I realized just how engaging it is for me to gather and visualize massive amounts of data to produce outputs that so many people can admire and utilize.
+
+My passion & personal development has motivated me to continue pursuing a Bachelor's degree while working full time. Furthering my career path and achievements are important to me while I strive to continuously improve myself at work and school.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="www.linkedin.com/in/stephanie-marie-reyes">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
